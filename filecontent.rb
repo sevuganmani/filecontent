@@ -4,6 +4,6 @@ file status_file do
   owner 'root'
   group 'root'
   mode '0755'
-  content 'Status Update from jenkins'
+  content 'Update from jenkins'
 end
 
